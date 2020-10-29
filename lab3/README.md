@@ -1,1 +1,1 @@
-GIF:
+GIF: ![demo gif](demo.gif)
